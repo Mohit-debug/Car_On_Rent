@@ -1,6 +1,6 @@
 # Live demo of Project
 
-https://luxury-licorice-75b84a.netlify.app/
+https://calm-tapioca-7c3f76.netlify.app/
 
 # Getting Started with Create React App
 
